@@ -1,6 +1,6 @@
 /*
  * LibraryModel.java
- * Author: Tyler Shamsuddoha - Vicotira University of Wellington - 300428076
+ * Author: Tyler Shamsuddoha - Victoria University of Wellington - 300428076
  * Date: 2019
  */
 
